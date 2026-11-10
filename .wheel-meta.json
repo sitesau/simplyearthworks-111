@@ -1,0 +1,22 @@
+{
+  "wheel_id": 869,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-111",
+  "project": "earthmoving-adelaide-planning-guide-56c27f7c95ad4bb0fa8acacd1a0",
+  "parent_t1_ref": "simplyearthworks-155",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide planning guide",
+  "intended_url": "https://sitesau.github.io/simplyearthworks-111/",
+  "tier": "T2",
+  "writeback_nonce": "a4b8d7bf5b5c0b58",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-adelaide-budget-tips-0faa444463db679b5c554e9cf0b968/",
+      "anchor": "Earthmoving Adelaide Budget Tips: Budget Tips for Site Work",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
